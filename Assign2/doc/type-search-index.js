@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"ScrabbleApp","l":"Letters"},{"p":"PasswordStrengthApp","l":"Password"},{"p":"PasswordStrengthApp","l":"PasswordApp"},{"p":"ScrabbleApp","l":"ScrabbleGame"}];updateSearchResults();
